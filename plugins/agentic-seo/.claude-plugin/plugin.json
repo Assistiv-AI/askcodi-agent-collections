@@ -1,0 +1,10 @@
+{
+  "name": "agentic-seo",
+  "version": "1.0.0",
+  "description": "Deterministic LLM-first SEO audits for websites, blog posts, and GitHub repositories with 16 specialized skills, 10 specialist agents, and 33 evidence collection scripts.",
+  "author": {
+    "name": "Bhanu Namikaze",
+    "email": "noreply@github.com"
+  },
+  "license": "MIT"
+}
